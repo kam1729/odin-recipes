@@ -1,0 +1,31 @@
+* {
+    background-color: grey;
+    font-size: 30px;
+}
+div {
+    text-align: center;
+}
+.img1 {
+    text-align: center;
+    padding-right: 120px;
+}
+.img2 {
+    padding-right: 120px;
+}
+.img3 {
+    padding-right: 175px;
+}
+.odinrecipes {
+    font-weight: bold;
+    font-size: 50px;
+}
+.tea,
+.dal,
+.kheer {
+    font-size: 50px;
+}
+.teahome,
+.dalhome,
+.kheerhome {
+    font-size: 40px;
+}
